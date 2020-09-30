@@ -4,6 +4,6 @@ la sucesión de Fibonacci se la sucesión infinita de números naturales. La suc
 este es codigo implememtado para hacer la secuencia de finobacci.
 
 
+![Captura de pantalla (291) png](https://user-images.githubusercontent.com/71051834/94639779-9b655900-02a2-11eb-9b46-6f92a8964b13.jpg)
 
 
-![Uploading Captura de pantalla (291).png.jpg…]()
