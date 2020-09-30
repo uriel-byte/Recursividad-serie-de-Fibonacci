@@ -6,4 +6,9 @@ este es codigo implememtado para hacer la secuencia de finobacci.
 
 ![Captura de pantalla (291) png](https://user-images.githubusercontent.com/71051834/94639779-9b655900-02a2-11eb-9b46-6f92a8964b13.jpg)
 
+el codigo funciona de la siguiente manera.
+primero introducimos un numero entero ahora bien se utilizo un do-while por si el usuario llega a meter un numero que no sea natural volvera a pedir el numero hasta que le metan el numero natural.
+despues el programa seguira ejecutandose hasta mostrar la suscesion.
+
+aqui estan algumas capturas de pantalla mostrando que el programa si funciona en su totalidad.
 
