@@ -11,4 +11,7 @@ primero introducimos un numero entero ahora bien se utilizo un do-while por si e
 despues el programa seguira ejecutandose hasta mostrar la suscesion.
 
 aqui estan algumas capturas de pantalla mostrando que el programa si funciona en su totalidad.
+![Captura de pantalla (292) png](https://user-images.githubusercontent.com/71051834/94640537-a6b98400-02a4-11eb-9662-366533000fd1.jpg)
 
+
+![Captura de pantalla (293) png](https://user-images.githubusercontent.com/71051834/94640545-ab7e3800-02a4-11eb-9d8d-3f7590c7b442.jpg)
